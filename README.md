@@ -1,8 +1,7 @@
-# ABM-Assignment-2
-ABM Assignment 2 for Leeds Module: Programming for Social Sciences
+# AgentBasedModel2
+ABM Assignment 2 for the University of Leeds Module: Programming for Social Sciences
 
 This repository contains all of the relevant information for the ‘Planning for Drunks’ agent-based model (ABM). This model simulates the movement of drunks from the pub (in the centre of the town) to their homes. Each drunk person is given a unique ID, which they have to match to their house number (e.g., drunk person number 10 has to find house number 10), this causes the drunk person to stop walking.  This simulation will continue to loop until all 25 drunk people find their homes from the pub.
-
 
 The model is written using a Python script, therefore, an appropriate Python software must be used, e.g. Spyder, which was used to develop this ABM. Spyder can be used via downloading the [Anaconda Navigator](https://www.anaconda.com/download/), where you can select the correct operating system for your PC and download.
 
